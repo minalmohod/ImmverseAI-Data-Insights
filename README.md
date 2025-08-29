@@ -1,2 +1,7 @@
-# ImmverseAI-Data-Insights
-Interactive Power BI dashboard and datasets for ImmverseAI. Includes raw and cleaned data with visualizations highlighting trends, key metrics, and insights. Built for data cleaning, analysis, and business intelligence reporting using Excel, Power Query, and Power BI Desktop
+
+## 📊 Project Description
+This project involves:
+- **Data Cleaning**: Transforming raw data into a structured, analysis-ready format.
+- **Data Visualization**: Creating an interactive Power BI dashboard for insights.
+- **Data Analysis**: Highlighting key metrics, patterns, and business insights.
+
